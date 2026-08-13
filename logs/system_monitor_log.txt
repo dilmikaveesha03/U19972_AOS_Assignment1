@@ -1,0 +1,37 @@
+[2026-08-11 17:49:24] USER_ACTION: System started | SYSTEM_RESPONSE: Data Center Management System initialised by user: kaveesha
+[2026-08-11 17:49:33] USER_ACTION: View system resources | SYSTEM_RESPONSE: Displayed CPU, memory, and vmstat output
+[2026-08-11 17:49:48] USER_ACTION: Terminate process | SYSTEM_RESPONSE: User cancelled or invalid PID entered
+[2026-08-11 17:49:57] USER_ACTION: Inspect disk usage of '' | SYSTEM_RESPONSE: Failed - directoty not found
+[2026-08-11 17:52:09] USER_ACTION: View system resources | SYSTEM_RESPONSE: Displayed CPU, memory, and vmstat output
+[2026-08-11 17:53:39] USER_ACTION: Terminate process | SYSTEM_RESPONSE: User cancelled or invalid PID entered
+[2026-08-11 17:54:37] USER_ACTION: Inspect disk usage of '/home' | SYSTEM_RESPONSE: Displayed df and du output
+[2026-08-11 17:55:42] USER_ACTION: Create ArchiveLogs directory | SYSTEM_RESPONSE: Created at /home/kaveesha/U19972_AOS_Assessment1/Archivelogs
+[2026-08-11 17:55:42] USER_ACTION: Scan for large logs in '/tmp' | SYSTEM_RESPONSE: No oversized log files found
+[2026-08-11 17:56:24] USER_ACTION: Exit system | SYSTEM_RESPONSE: User confirmed exit
+[2026-08-12 14:11:17] USER_ACTION: System started | SYSTEM_RESPONSE: Data Center Management System initialised by user: kaveesha
+[2026-08-12 14:11:45] USER_ACTION: View system resources | SYSTEM_RESPONSE: Displayed CPU, memory, and vmstat output
+[2026-08-12 14:14:17] USER_ACTION: System started | SYSTEM_RESPONSE: Data Centre Management System initialised by user: kaveesha
+[2026-08-12 14:14:22] USER_ACTION: View system resources | SYSTEM_RESPONSE: Displayed CPU, memory, and vmstat output
+[2026-08-12 14:14:34] USER_ACTION: Terminate process | SYSTEM_RESPONSE: User cancelled or invalid PID entered
+[2026-08-12 14:14:48] USER_ACTION: Inspect disk usage of '' | SYSTEM_RESPONSE: Failed – directory not found
+[2026-08-12 14:15:31] USER_ACTION: View system resources | SYSTEM_RESPONSE: Displayed CPU, memory, and vmstat output
+[2026-08-12 14:17:03] USER_ACTION: View system resources | SYSTEM_RESPONSE: Displayed CPU, memory, and vmstat output
+[2026-08-12 14:18:36] USER_ACTION: Terminate process | SYSTEM_RESPONSE: User cancelled or invalid PID entered
+[2026-08-12 14:18:57] USER_ACTION: Inspect disk usage of '/home' | SYSTEM_RESPONSE: Displayed df and du output
+[2026-08-12 14:20:00] USER_ACTION: Scan for large logs in '/tmp' | SYSTEM_RESPONSE: No oversized log files found
+[2026-08-12 14:22:43] USER_ACTION: Create ArchiveLogs directory | SYSTEM_RESPONSE: Created at /home/kaveesha/U19972_AOS_Assessment1/ArchiveLogs
+[2026-08-12 14:22:43] USER_ACTION: Scan for large logs in '/tmp' | SYSTEM_RESPONSE: No oversized log files found
+[2026-08-12 14:24:01] USER_ACTION: Inspect disk usage of '/home' | SYSTEM_RESPONSE: Displayed df and du output
+[2026-08-12 14:24:36] USER_ACTION: Scan for large logs in '/tmp' | SYSTEM_RESPONSE: No oversized log files found
+[2026-08-12 14:25:57] USER_ACTION: Scan for large logs in '/U19972_AOS_Assessment1' | SYSTEM_RESPONSE: Failed – directory not found
+[2026-08-12 14:26:11] USER_ACTION: Scan for large logs in '/tmp' | SYSTEM_RESPONSE: No oversized log files found
+[2026-08-12 14:26:49] USER_ACTION: Inspect disk usage of '/home' | SYSTEM_RESPONSE: Displayed df and du output
+[2026-08-12 14:26:58] USER_ACTION: Scan for large logs in '/tmp' | SYSTEM_RESPONSE: No oversized log files found
+[2026-08-12 14:32:28] USER_ACTION: System started | SYSTEM_RESPONSE: Data Center Management System initialised by user: kaveesha
+[2026-08-12 14:32:41] USER_ACTION: Exit system | SYSTEM_RESPONSE: User confirmed exit
+[2026-08-12 14:33:17] USER_ACTION: System started | SYSTEM_RESPONSE: Data Center Management System initialised by user: kaveesha
+[2026-08-12 14:33:27] USER_ACTION: View system resources | SYSTEM_RESPONSE: Displayed CPU, memory, and vmstat output
+[2026-08-12 14:33:33] USER_ACTION: Terminate process | SYSTEM_RESPONSE: User cancelled or invalid PID entered
+[2026-08-12 14:33:43] USER_ACTION: Inspect disk usage of '/home' | SYSTEM_RESPONSE: Displayed df and du output
+[2026-08-12 14:33:58] USER_ACTION: Scan for large logs in '/test_logs' | SYSTEM_RESPONSE: Failed - directory not found
+[2026-08-12 14:38:10] USER_ACTION: Exit system | SYSTEM_RESPONSE: User confirmed exit

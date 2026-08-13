@@ -1,0 +1,34 @@
+[2026-08-12 13:39:28] StudentID: SYSTEM | Job: STARTUP | Scheduler: N/A | Result: HPC Scheduler initialised
+[2026-08-12 13:40:04] StudentID: SYSTEM | Job: VIEW_QUEUE | Scheduler: N/A | Result: 5 pending job(s) displayed
+[2026-08-12 13:44:59] StudentID: IT2027 | Job: TestJob | Scheduler: SUBMISSION | Result: Job added to queue
+[2026-08-12 13:46:16] StudentID: IT2024 | Job: DataAnalysis | Scheduler: RoundRobin | Result: Processed 5s | Remaining: 15s
+[2026-08-12 13:46:16] StudentID: SE2023 | Job: MatrixSolver | Scheduler: RoundRobin | Result: Processed 5s | Remaining: 10s
+[2026-08-12 13:46:16] StudentID: CS2025 | Job: MLTraining | Scheduler: RoundRobin | Result: Processed 5s | Remaining: 30s
+[2026-08-12 13:46:16] StudentID: IT2022 | Job: GenomeMap | Scheduler: RoundRobin | Result: Processed 5s | Remaining: 20s
+[2026-08-12 13:46:16] StudentID: SE2024 | Job: FluidSim | Scheduler: RoundRobin | Result: Processed 5s | Remaining: 5s
+[2026-08-12 13:46:16] StudentID: IT2027 | Job: TestJob | Scheduler: RoundRobin | Result: Processed 5s | Remaining: 5s
+[2026-08-12 13:46:16] StudentID: IT2024 | Job: DataAnalysis | Scheduler: RoundRobin | Result: Processed 5s | Remaining: 10s
+[2026-08-12 13:46:17] StudentID: SE2023 | Job: MatrixSolver | Scheduler: RoundRobin | Result: Processed 5s | Remaining: 5s
+[2026-08-12 13:46:17] StudentID: CS2025 | Job: MLTraining | Scheduler: RoundRobin | Result: Processed 5s | Remaining: 25s
+[2026-08-12 13:46:17] StudentID: IT2022 | Job: GenomeMap | Scheduler: RoundRobin | Result: Processed 5s | Remaining: 15s
+[2026-08-12 13:46:17] StudentID: SE2024 | Job: FluidSim | Scheduler: RoundRobin | Result: Processed 5s | Remaining: 0s
+[2026-08-12 13:46:17] StudentID: SE2024 | Job: FluidSim | Scheduler: RoundRobin | Result: COMPLETED
+[2026-08-12 13:46:17] StudentID: IT2027 | Job: TestJob | Scheduler: RoundRobin | Result: Processed 5s | Remaining: 0s
+[2026-08-12 13:46:17] StudentID: IT2027 | Job: TestJob | Scheduler: RoundRobin | Result: COMPLETED
+[2026-08-12 13:46:17] StudentID: IT2024 | Job: DataAnalysis | Scheduler: RoundRobin | Result: Processed 5s | Remaining: 5s
+[2026-08-12 13:46:17] StudentID: SE2023 | Job: MatrixSolver | Scheduler: RoundRobin | Result: Processed 5s | Remaining: 0s
+[2026-08-12 13:46:17] StudentID: SE2023 | Job: MatrixSolver | Scheduler: RoundRobin | Result: COMPLETED
+[2026-08-12 13:46:17] StudentID: CS2025 | Job: MLTraining | Scheduler: RoundRobin | Result: Processed 5s | Remaining: 20s
+[2026-08-12 13:46:17] StudentID: IT2022 | Job: GenomeMap | Scheduler: RoundRobin | Result: Processed 5s | Remaining: 10s
+[2026-08-12 13:46:17] StudentID: IT2024 | Job: DataAnalysis | Scheduler: RoundRobin | Result: Processed 5s | Remaining: 0s
+[2026-08-12 13:46:17] StudentID: IT2024 | Job: DataAnalysis | Scheduler: RoundRobin | Result: COMPLETED
+[2026-08-12 13:46:17] StudentID: CS2025 | Job: MLTraining | Scheduler: RoundRobin | Result: Processed 5s | Remaining: 15s
+[2026-08-12 13:46:17] StudentID: IT2022 | Job: GenomeMap | Scheduler: RoundRobin | Result: Processed 5s | Remaining: 5s
+[2026-08-12 13:46:17] StudentID: CS2025 | Job: MLTraining | Scheduler: RoundRobin | Result: Processed 5s | Remaining: 10s
+[2026-08-12 13:46:17] StudentID: IT2022 | Job: GenomeMap | Scheduler: RoundRobin | Result: Processed 5s | Remaining: 0s
+[2026-08-12 13:46:17] StudentID: IT2022 | Job: GenomeMap | Scheduler: RoundRobin | Result: COMPLETED
+[2026-08-12 13:46:17] StudentID: CS2025 | Job: MLTraining | Scheduler: RoundRobin | Result: Processed 5s | Remaining: 5s
+[2026-08-12 13:46:17] StudentID: CS2025 | Job: MLTraining | Scheduler: RoundRobin | Result: Processed 5s | Remaining: 0s
+[2026-08-12 13:46:17] StudentID: CS2025 | Job: MLTraining | Scheduler: RoundRobin | Result: COMPLETED
+[2026-08-12 13:50:56] StudentID: SYSTEM | Job: VIEW_COMPLETED | Scheduler: N/A | Result: Completed jobs list displayed
+[2026-08-12 13:51:27] StudentID: SYSTEM | Job: EXIT | Scheduler: N/A | Result: System exited by user

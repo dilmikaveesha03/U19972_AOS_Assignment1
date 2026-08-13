@@ -1,0 +1,64 @@
+[2026-08-12 11:31:18] USER: SYSTEM | ACTION: System started | STATUS: Secure Submission System initialised by user: kaveesha
+[2026-08-12 11:34:00] USER: IT2024 | ACTION: Submit '/path/to/test_assignment.pdf' | STATUS: REJECTED - file not found
+[2026-08-12 11:36:09] USER: IT2024 | ACTION: Submit '/home/document/test_assignment.pdf' | STATUS: REJECTED - file not found
+[2026-08-12 11:39:02] USER: SYSTEM | ACTION: System started | STATUS: Secure Submission System initialised by user: kaveesha
+[2026-08-12 11:39:33] USER: IT2024 | ACTION: Submit '/tmp/test_assignment.pdf' | STATUS: REJECTED - file not found
+[2026-08-12 11:44:34] USER: IT2024 | ACTION: Submit '/home/kaveesha/Desktop/test.pdf; | STATUS: ERROR - validator failed
+[2026-08-12 11:49:03] USER: SYSTEM | ACTION: System started | STATUS: Secure Submission System initialised by user: kaveesha
+[2026-08-12 11:49:30] USER: IT2024 | ACTION: Submit 'test.pdf' | STATUS: Accepted - saved to submissions
+[2026-08-12 11:52:34] USER: SYSTEM | ACTION: System started | STATUS: Secure Submission System initialised by user: kaveesha
+[2026-08-12 11:52:49] USER: IT2024 | ACTION: Submit 'test.pdf' | STATUS: Accepted - saved to submissions
+[2026-08-12 11:57:25] USER: SYSTEM | ACTION: System started | STATUS: Secure Submission System initialised by user: kaveesha
+[2026-08-12 11:57:50] USER: IT2024 | ACTION: Submit 'test_assignment.pdf' | STATUS: Accepted - saved to submissions
+[2026-08-12 12:44:41] USER: SYSTEM | ACTION: System started | STATUS: Secure Submission System initialised by user: kaveesha
+[2026-08-12 12:45:04] USER: IT2024 | ACTION: Submit 'test_assignment.pdf' | STATUS: Accepted - saved to submissions
+[2026-08-12 12:53:04] USER: SYSTEM | ACTION: System started | STATUS: Secure Submission System initialised by user: kaveesha
+[2026-08-12 12:53:30] USER: IT2024 | ACTION: Submit '/tmp/test_assignment.pdf' | STATUS: REJECTED - file not found
+[2026-08-12 12:59:25] USER: IT2024 | ACTION: Submit '/tmp/test_assignment.pdf' | STATUS: REJECTED - file not found
+[2026-08-12 13:00:54] USER: IT2024 | ACTION: Submit '/home/kaveesha/U19972_AOS_Assessment1/task3_submission_system/test_assignment.pdf; | STATUS: ERROR - validator failed
+[2026-08-12 13:15:08] USER: SYSTEM | ACTION: System started | STATUS: Secure Submission System initialised by user: kaveesha
+[2026-08-12 13:15:32] USER: IT2024 | ACTION: Submit 'test_assignment.pdf' | STATUS: Accepted - saved to submissions
+[2026-08-12 13:18:51] USER: SYSTEM | ACTION: System started | STATUS: Secure Submission System initialised by user: kaveesha
+[2026-08-12 13:19:29] USER: IT2024 | ACTION: Submit '/home/kaveesha/U19972_AOS_Assessment1/task3_submission_system/submissions/IT2024_test_pdf' | STATUS: REJECTED - file not found
+[2026-08-12 14:55:45] USER: SYSTEM | ACTION: System started | STATUS: Secure Submission System initialised by user: kaveesha
+[2026-08-12 14:56:01] USER: SYSTEM | ACTION: System started | STATUS: Secure Submission System initialised by user: kaveesha
+[2026-08-12 14:59:47] USER: SYSTEM | ACTION: System started | STATUS: Secure Submission System initialised by user: kaveesha
+[2026-08-12 15:01:21] USER: SYSTEM | ACTION: System started | STATUS: Secure Submission System initialised by user: kaveesha
+[2026-08-12 15:03:06] USER: IT2024 | ACTION: Submit '/path/to/test_assignment.pdf' | STATUS: REJECTED - file not found
+[2026-08-12 15:03:49] USER: IT2024 | ACTION: Submit '/home/kaveesha/U19972_AOS_Assessment1/task3_submission_system/submissions' | STATUS: REJECTED - file not found
+[2026-08-12 15:04:58] USER: IT2024 | ACTION: Submit '/home/kaveesha/U19972_AOS_Assessment1/task3_submission_system_test_assignment.pdf' | STATUS: REJECTED - file not found
+[2026-08-12 15:05:54] USER: IT2024 | ACTION: Submit '/tmp/test_assignment.pdf' | STATUS: REJECTED - file not found
+[2026-08-12 15:10:22] USER: IT2024 | ACTION: Submit 'test_assignment.pdf' | STATUS: Accepted - saved to submissions
+[2026-08-12 15:15:30] USER: IT2024 | ACTION: Submit 'test_assignment.pdf' | STATUS: Accepted - saved to submissions
+[2026-08-12 15:18:12] USER: SYSTEM | ACTION: System started | STATUS: Secure Submission System initialised by user: kaveesha
+[2026-08-12 15:19:36] USER: SYSTEM | ACTION: System started | STATUS: Secure Submission System initialised by user: kaveesha
+[2026-08-12 15:20:34] USER: IT2024 | ACTION: Submit 'test_assignment.pdf' | STATUS: ACCEPTED – saved to submissions
+[2026-08-12 15:21:46] USER: IT2024 | ACTION: Submit '/tmp/test_assignment.pdf' | STATUS: REJECTED – file not found
+[2026-08-12 15:22:55] USER: IT2024 | ACTION: Submit 'test_assignment.pdf' | STATUS: ACCEPTED – saved to submissions
+[2026-08-12 15:23:56] USER: SYSTEM | ACTION: System started | STATUS: Secure Submission System initialised by user: kaveesha
+[2026-08-12 15:24:18] USER: IT2024 | ACTION: Submit 'test_assignment.pdf' | STATUS: ACCEPTED – saved to submissions
+[2026-08-12 15:27:09] USER: SYSTEM | ACTION: System started | STATUS: Secure Submission System initialised by user: kaveesha
+[2026-08-12 15:27:43] USER: IT2024 | ACTION: Submit 'test_assignment.pdf' | STATUS: Accepted - saved to submissions
+[2026-08-12 15:29:28] USER: SYSTEM | ACTION: System started | STATUS: Secure Submission System initialised by user: kaveesha
+[2026-08-12 15:30:02] USER: IT2024 | ACTION: Submit '/home/kaveesha/U19972_AOS_Assessment1/task3_submission_system/submissions/test_assignment.pdf' | STATUS: REJECTED – duplicate hash
+[2026-08-12 15:30:39] USER: SYSTEM | ACTION: System started | STATUS: Secure Submission System initialised by user: kaveesha
+[2026-08-12 15:33:12] USER: IT2024 | ACTION: Submit '/home/kaveesha/U19972_AOS_Assessment1/task3_submission_system/submissions/test_assignment.pdf' | STATUS: REJECTED – duplicate hash
+[2026-08-12 15:33:27] USER: SYSTEM | ACTION: Exit | STATUS: System exited by user
+[2026-08-12 15:33:32] USER: SYSTEM | ACTION: System started | STATUS: Secure Submission System initialised by user: kaveesha
+[2026-08-12 15:34:07] USER: IT2024 | ACTION: Submit '/home/kaveesha/U19972_AOS_Assessment1/task3_submission_system/submissions/test_assignment.pdf' | STATUS: REJECTED – duplicate hash
+[2026-08-12 15:35:26] USER: SE2024 | ACTION: Submit '/home/kaveesha/U19972_AOS_Assessment1/task3_submission_system/submissions/test_assignment.pdf' | STATUS: REJECTED – duplicate hash
+[2026-08-12 15:36:17] USER: SE2024 | ACTION: Submit '/home/kaveesha/U19972_AOS_Assessment1/task3_submission_system/submissions/test_assignment1.pdf' | STATUS: REJECTED – duplicate hash
+[2026-08-12 15:37:23] USER: SYSTEM | ACTION: Validate '/home/kaveesha/U19972_AOS_Assessment1/task3_submission_system/submissions/test_assignment1.pdf' | STATUS: Result: DUPLICATE
+[2026-08-12 15:39:21] USER: SYSTEM | ACTION: List submitted files | STATUS: Listed 1 file(s)
+[2026-08-12 15:40:36] USER: SE2024 | ACTION: Login attempt | STATUS: FAILED (attempt 1 of 3)
+[2026-08-12 15:42:29] USER: SE2024 | ACTION: Login attempt | STATUS: FAILED (attempt 1 of 3)
+[2026-08-12 15:42:47] USER: SE2024 | ACTION: Login attempt | STATUS: FAILED (attempt 2 of 3)
+[2026-08-12 15:43:26] USER: SE2024 | ACTION: Login attempt | STATUS: WARNING – suspicious activity (multiple attempts within 60s)
+[2026-08-12 15:43:26] USER: SE2024 | ACTION: Login attempt | STATUS: FAILED (attempt 3 of 3)
+[2026-08-12 15:43:26] USER: SE2024 | ACTION: Account lockout | STATUS: LOCKED after 3 failed attempts
+[2026-08-12 15:44:16] USER: IT2024 | ACTION: Login attempt | STATUS: FAILED (attempt 1 of 3)
+[2026-08-12 15:44:31] USER: IT2024 | ACTION: Login attempt | STATUS: FAILED (attempt 2 of 3)
+[2026-08-12 15:46:25] USER: IT2022 | ACTION: Login attempt | STATUS: SUCCESS
+[2026-08-12 15:46:56] USER: SYSTEM | ACTION: Exit | STATUS: System exited by user
+[2026-08-12 15:48:30] USER: SYSTEM | ACTION: System started | STATUS: Secure Submission System initialised by user: kaveesha
+[2026-08-12 15:48:57] USER: SE2024 | ACTION: Submit '/home/kaveesha/U19972_AOS_Assessment1/test_assignment1.pdf' | STATUS: REJECTED – duplicate hash
